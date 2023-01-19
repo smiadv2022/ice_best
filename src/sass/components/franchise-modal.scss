@@ -300,7 +300,6 @@ textarea:focus {
   border: hidden;
   cursor: pointer;
   text-align: center;
-
   transition: width 2s, height 2s, transform 2s;
 
   @include tablet {
